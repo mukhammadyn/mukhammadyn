@@ -4,7 +4,7 @@ About me
 
 YouTube blog
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF4C29?style=for-the-badge&logo=JavaScript&logoColor=FEC260)
+![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=FEC260)
 
 Follow me
 
