@@ -2,7 +2,7 @@
 
 ## I studied in the frontend direction for 7 months at the “Najot Ta'lim” training center. I am looking for a good company to work with.
 
-### ![My YouTube blog](https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ)
+### [My YouTube blog](https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
 ![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
