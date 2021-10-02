@@ -2,7 +2,7 @@
 
 ## I studied in the frontend direction for 7 months at the “Najot Ta'lim” training center. I am looking for a good company to work with.
 
-### [My YouTube blog](https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ)
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
 ![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
@@ -12,5 +12,17 @@
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
 
 
+### Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/nurmuhammad-mahmud-455bb2208)
+[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/nurmuhammad_maxmudov)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/mukhammadyn)
+
+
+### Contact With Me
+
+![Email:nurmuhammaddeveloper@gmail.com](https://img.shields.io/badge/-Gmail-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhammadyn)
 
 
