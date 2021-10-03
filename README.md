@@ -1,6 +1,6 @@
 [![Header](https://github.com/mukhammadyn/mukhammadyn/blob/main/assets/guthub-header.png)](https://t.me/mukhammadyn)
 
-## Studied for 7 months in frontend bootcamp course of "Najot Ta'lim". Temporarily unemployed.
+## Studied for 7 months in frontend bootcamp course of "Najot Ta'lim". Temporarily open to work.
 
 ### Languages and Tools
 
